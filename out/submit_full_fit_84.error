@@ -1,0 +1,30 @@
+{License checkout failed.
+License Manager Error -4
+Maximum number of users for Optimization_Toolbox reached.
+Try again later.
+
+Troubleshoot this issue by visiting:
+http://www.mathworks.com/support/lme/R2016b/4
+
+Diagnostic Information:
+Feature: Optimization_Toolbox
+License path:
+/home/students/atfox/.matlab/R2016b_licenses:/usr/local/MATLAB/R2016b/licenses/license.dat:/usr/local/MATLAB/R2016b/licenses/network.lic
+Licensing error: -4,132.
+
+Error in SC_Model.ode_ss (line 97)
+            SS = fsolve(func,Ig,options);
+
+Error in SC_Model.obj_ss (line 114)
+                    [SS(i,:)] = obj.ode_ss(Par,func,Ig,Index);
+
+Error in fit_Sc>@(Par)Mod.obj_ss(Par,Mod,Mod.U,2,'Ca',Mod.Data,Ig,func) (line
+29)
+OBJ =  @(Par) Mod.obj_ss(Par,Mod,Mod.U,2,'Ca',Mod.Data,Ig,func);
+
+Error in fminsearch (line 200)
+fv(:,1) = funfcn(x,varargin{:});
+
+Error in fit_Sc (line 31)
+param = fminsearch(OBJ,Par_Guess,options);
+} 
