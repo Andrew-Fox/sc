@@ -3,3 +3,8 @@
 Error in fit_Sc (line 22)
 Par_Guess = P(:,j);
 } 
+{Subscript indices must either be real positive integers or logicals.
+
+Error in fit_Sc (line 22)
+Par = P(:,j);
+} 

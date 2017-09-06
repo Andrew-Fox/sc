@@ -106,3 +106,30 @@ ans =
     4.9297
 
 >> Wed Sep  6 14:56:00 MDT 2017
+Wed Sep  6 15:55:57 MDT 2017
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ans =
+
+   54.0398
+    4.0226
+   78.7591
+   15.2766
+   71.0071
+   20.0628
+   58.7847
+    5.3326
+   16.8808
+    5.8102
+   12.0605
+
+>> Wed Sep  6 15:56:34 MDT 2017
