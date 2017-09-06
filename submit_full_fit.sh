@@ -25,6 +25,6 @@
 date
 
 # spython is the server's version of Python 2.5. Using python instead of spython causes the program to run in python 2.3
-/usr/local/bin/matlab -nodisplay -nosplash -r "fit_Sc $1" 
+/usr/local/bin/matlab -nodisplay -nosplash -r "test $1" 
 # print date and time again
 date
