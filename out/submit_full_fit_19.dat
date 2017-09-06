@@ -64,3 +64,30 @@ To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
 >> Wed Sep  6 14:14:07 MDT 2017
+Wed Sep  6 14:54:14 MDT 2017
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ans =
+
+   40.9439
+   41.3070
+   32.2938
+   18.9631
+   40.6557
+   26.5333
+   17.5298
+   47.1620
+   43.8356
+   27.5598
+   31.0740
+
+>> Wed Sep  6 14:55:55 MDT 2017
