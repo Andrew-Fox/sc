@@ -1,4 +1,4 @@
-Tue Sep  5 17:46:34 MDT 2017
+Mon Sep 11 13:50:32 MDT 2017
 
                             < M A T L A B (R) >
                   Copyright 1984-2016 The MathWorks, Inc.
@@ -12,109 +12,16 @@ For product information, visit www.mathworks.com.
 
 ans =
 
-   10.1252
-    8.4821
-    1.4071
-    9.0033
-    5.8960
-    1.1194
-    3.6742
-    2.6134
-   10.8723
-    8.7028
-    1.6923
+   56.9734
+    4.3391
+   44.3759
+   12.4719
+   18.2990
+   20.9340
+   54.3935
+   12.9862
+   15.0881
+    4.5354
+   10.2317
 
->> Tue Sep  5 17:47:09 MDT 2017
-Wed Sep  6 13:42:29 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
-
-ans =
-
-    9.9357
-    8.3696
-    1.3836
-    8.8182
-    5.7955
-    1.1014
-    3.6001
-    2.5767
-   10.6528
-    8.5342
-    1.6522
-
->> Wed Sep  6 13:43:06 MDT 2017
-Wed Sep  6 14:15:46 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
-
-ans =
-
-    6.8380    3.3046
-    5.0274    6.7493
-    1.9181    4.4065
-    4.9150    8.3580
-    1.4646    7.6965
-    0.5568    1.6709
-    8.6601    8.5767
-    5.8007    9.8772
-    9.3004    5.1447
-    6.8095    8.8470
-    5.6507    5.8399
-
->> Wed Sep  6 14:16:35 MDT 2017
-Wed Sep  6 14:56:00 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
-
-ans =
-
-   42.6564
-    4.5275
-   19.0177
-   18.4709
-   33.5040
-   31.9779
-   44.5637
-   20.3568
-   10.1548
-    4.2582
-   27.3774
-
->> Wed Sep  6 14:56:35 MDT 2017
-Wed Sep  6 15:57:59 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
->> Wed Sep  6 15:58:11 MDT 2017
+>> Mon Sep 11 13:52:26 MDT 2017

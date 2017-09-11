@@ -1,4 +1,4 @@
-Tue Sep  5 17:47:01 MDT 2017
+Mon Sep 11 13:50:46 MDT 2017
 
                             < M A T L A B (R) >
                   Copyright 1984-2016 The MathWorks, Inc.
@@ -12,94 +12,16 @@ For product information, visit www.mathworks.com.
 
 ans =
 
-   10.1252
-    8.4821
-    1.4071
-    9.0033
-    5.8960
-    1.1194
-    3.6742
-    2.6134
-   10.8723
-    8.7028
-    1.6923
+   49.9137
+    4.1959
+   46.3473
+   13.6111
+   97.2068
+   19.0406
+   59.1572
+   12.4642
+   16.0112
+    4.9829
+   10.0379
 
->> Tue Sep  5 17:47:37 MDT 2017
-Wed Sep  6 13:42:59 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
-
-ans =
-
-    9.9350
-    8.3726
-    1.3837
-    8.8174
-    5.7978
-    1.1014
-    3.6001
-    2.5755
-   10.6544
-    8.5362
-    1.6508
-
->> Wed Sep  6 13:43:39 MDT 2017
-Wed Sep  6 14:16:14 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
->> Wed Sep  6 14:16:24 MDT 2017
-Wed Sep  6 14:56:30 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
-
-ans =
-
-   40.2508
-   43.7520
-   17.3871
-   34.4898
-   14.6497
-   26.5685
-   42.2181
-   29.9876
-   16.7391
-   14.5187
-   22.6282
-
->> Wed Sep  6 15:03:47 MDT 2017
-Wed Sep  6 15:58:29 MDT 2017
-
-                            < M A T L A B (R) >
-                  Copyright 1984-2016 The MathWorks, Inc.
-                   R2016b (9.1.0.441655) 64-bit (glnxa64)
-                             September 7, 2016
-
- 
-To get started, type one of these: helpwin, helpdesk, or demo.
-For product information, visit www.mathworks.com.
- 
->> Wed Sep  6 15:58:39 MDT 2017
+>> Mon Sep 11 13:53:03 MDT 2017
