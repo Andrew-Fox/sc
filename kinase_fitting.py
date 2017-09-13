@@ -7,7 +7,8 @@ import subprocess
 import time
 
 minjob = 1
-maxjob = 101
+
+maxjob = 50 
 filenames ='submit_full_fit'
 path = 'out/'
 #print filenames
